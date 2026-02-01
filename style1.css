@@ -1,4 +1,5 @@
 
+
 *{
     margin: 0;
     padding: 0;
@@ -638,7 +639,11 @@ span{
         font-size: 50%;
     }
 
-  .services-container {
+  
+
+   
+
+    .services-container {
         flex-direction: column;
     }
 
